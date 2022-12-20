@@ -37,7 +37,7 @@ class Window {
 
 /// @brief ウィンドウ構築
 class WindowBuilder {
- private:
+ public:
   using Self = WindowBuilder;
 
  private:

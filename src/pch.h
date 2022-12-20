@@ -11,6 +11,7 @@
 #include <functional>
 #include <memory>
 #include <string>
+#include <vector>
 
 #include "imgui.h"
 #include "imgui_impl_sdl.h"
